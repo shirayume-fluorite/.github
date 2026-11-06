@@ -1,2 +1,2 @@
-## 作品詳細はこちらから
+# 作品サイトはこちらから
 https://shirayume-fluorite.github.io/official-site/
